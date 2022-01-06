@@ -1,6 +1,5 @@
-# barfinder
-This is the Starter files and the finished project for the React Typescript Barfinder App. It uses Google Maps and 3 different API:s
-Find it on my channel: 
+# Vegan Restaurant Finder
+This app finds vegan restaurants near you. It was built with React, Typescript, and Google Maps Api.
 
-[Weibenfalks Youtube Channel](http://www.youtube.com/weibenfalk)
+
 
